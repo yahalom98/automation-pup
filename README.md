@@ -1,10 +1,3 @@
- 
-
- ### Pyppeteer
-
-Pyppeteer is an unofficial port of Puppeteer for Python. This also bundles Chromium and works smoothly with it. Pyppeteer can work with Chrome as well, similar to Puppeteer. 
-
-The syntax is very similar as it uses the asyncio library for Python, except the syntactical differences between Python and JavaScript. Here are two scripts in JavaScript and Python that load a page and then take a screenshot of it.
 
 Puppeteer example:
 
