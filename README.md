@@ -1,21 +1,4 @@
-# Puppeteer Tutorial: Scraping With a Headless Browser
-## Table of Contents 
-
-[![Oxylabs promo code](https://user-images.githubusercontent.com/129506779/250792357-8289e25e-9c36-4dc0-a5e2-2706db797bb5.png)](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=877&url_id=112)
-
-[![](https://dcbadge.vercel.app/api/server/eWsVUJrnG5)](https://discord.gg/GbxmdGhZjq)
-
-- [Controlling the browsers programmatically](#controlling-the-browsers-programmatically)
-- [Installation](#installation)
-- [Getting started with Puppeteer](#getting-started-with-puppeteer)
-- [Scraping an element from a page](#scraping-an-element-from-a-page)
-- [Scraping multiple elements](#scraping-multiple-elements)
-- [Scraping a hotel listing page](#scraping-a-hotel-listing-page)
-- [Summary](#summary)
-
-## Controlling the browsers programmatically
-
-This Puppeteer tutorial will cover web scraping with Puppeteer in much detail. Puppeteer, however, is a Node.js package, making it exclusive for JavaScript developers. Python programmers, therefore, have a similar option – Pyppeteer.  
+ 
 
  ### Pyppeteer
 
